@@ -1,5 +1,4 @@
-#Student ID: 010824379
-#Student Name: Stanton Barbadillo
+
 import datetime
 import csv
 import datetime
